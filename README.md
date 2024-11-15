@@ -14,8 +14,6 @@ Repositório com todos os meus certificados
 * Digital Innovation One
 
 
-## 📝 Feito por:
+## 🖥️ Desenvolvido por:
 
-### Gustavo Correa
-
-### Linkedin: https://www.linkedin.com/in/gustavo-chauar-correa-946168269/
+### 📝 Linkedin: [Gustavo Correa](https://www.linkedin.com/in/gustavo-chauar-correa-946168269/)
