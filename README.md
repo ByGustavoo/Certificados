@@ -11,6 +11,8 @@ Repositório com todos os meus certificados
   
 * Alura
 
+* Digital Innovation One
+
 
 ## 📝 Feito por:
 
