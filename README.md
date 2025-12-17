@@ -3,17 +3,17 @@
 
 Repositório com todos os meus certificados
 
+ <br>
 
 ## 🚀 Plataformas utilizadas:
 
-
-* Udemy
   
 * Alura
 
 * Digital Innovation One
 
+ <br>
 
-## 🖥️ Desenvolvido por:
+## 🖥️ Desenvolvedor
 
-### 📝 Linkedin: [Gustavo Correa](https://www.linkedin.com/in/gustavo-chauar-correa-946168269/)
+### Linkedin: [Gustavo Correa](https://www.linkedin.com/in/gustavo-chauar-correa-946168269/)
